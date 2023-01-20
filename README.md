@@ -51,6 +51,7 @@
   <a href="https://web.whatsapp.com/send?phone=5581981430626" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" target="_blank"></a>
 </div>
 
+  Curriculum vitae: [https://tuliohsa87.github.io/](https://tuliohsa87.github.io)
 ##
   
 ### Cobra comendo meu gráfico de contribuição:
